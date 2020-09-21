@@ -2,8 +2,8 @@
 var __apiKeys = [
 	'm780109022-4ac13fd210d048a7d96b8979',		// Openwrt Router
 	'm783953686-5912db7169eea9ce488b60c1',		// Blog Home Page
-	'm786001835-9304248beafa5670e3ee9ec1',		// dl.eallion.com
 	'm786001832-268c89617f727ef0ce3eec2d',		// api.eallion.com
+	'm786001835-9304248beafa5670e3ee9ec1',		// dl.eallion.com
 	'm784979395-421a3e5f4d5c472e17cbd746',		// CDN Origin
 	'm780108929-9178e0b3e091daa86ec2a7f3',		// Aliyun HK
 	'm781833645-500dd4676d2f8f1d57199e6c',		// Aliyun HZ
