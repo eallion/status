@@ -15,6 +15,7 @@ var __apiKeys = [
 	'm786001814-07f298862bb7a36f0a376d31',		// IBM Cloud
 	'm781450763-856d189f18a8095b76b8c9ae',		// BWGhost DC6
 	'm783953731-f12e6f295ce9a2720a14d8e1',		// Umbrella Home Page
+	'm786001844-28d42d80ad58377fa285557a',		// Vote
 	'm784005570-6e1ea056361f4533dc4f8474',		// Git Pages
 	'm784005562-c9e0731436f32bc4c2e819ab',		// Coding Pages
 	'm786001812-b7751d2877906a1be0480bc6',		// Gitee Pages
