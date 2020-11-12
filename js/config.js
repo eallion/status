@@ -17,8 +17,6 @@ var __apiKeys = [
 	'm783953731-f12e6f295ce9a2720a14d8e1',		// Umbrella Home Page
 	'm786001844-28d42d80ad58377fa285557a',		// Vote
 	'm784005570-6e1ea056361f4533dc4f8474',		// Git Pages
-	'm784005562-c9e0731436f32bc4c2e819ab',		// Coding Pages
-	'm786001812-b7751d2877906a1be0480bc6',		// Gitee Pages
 ];
 
 // refresh interval (in seconds)
